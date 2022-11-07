@@ -5,8 +5,9 @@ This repo contains all the important tips and tricks gathered from learning and 
 # Performance Tips
 
 
-### Enabling Optimization
+### Enabling Optimization 
 
+This [link](https://github.com/apple/swift/blob/main/docs/OptimizationTips.rst#enabling-optimizations) explains all options.
 
 
 # Code Editor Tips
